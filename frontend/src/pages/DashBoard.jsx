@@ -18,9 +18,9 @@ export default function Dashboard() {
         <div>
           <div className="p-6 border-b border-teal-700">
             <div className="text-xl font-bold text-white">
-              Military Management
+              Military Asset Management
             </div>
-            <div className="text-sm text-teal-200">Defense Ops Command</div>
+            <div className="text-sm text-teal-200">Defense Command</div>
           </div>
 
           <nav className="mt-6 space-y-1 px-4">
